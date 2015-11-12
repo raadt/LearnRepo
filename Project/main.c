@@ -5,6 +5,11 @@ int func1() {
    return 0
 }
 
+int func3() {
+   printf("In func3")
+   return 0
+}
+
 int main() {
    printf("Hello world")
    return 0
