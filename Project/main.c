@@ -7,6 +7,8 @@ int func1() {
 
 int func3() {
    printf("In func3")
+int func2() {
+   printf("int func2")
    return 0
 }
 
